@@ -1,4 +1,4 @@
-# Churn-Analysis-using-Logistic-Regression
+# Churn-Analysis-using-Logistic-Regression, Decision Trees and Random Forest
 Customer churn, also known as customer attrition, is the loss of clients or customers. Churn is an important business metric for subscription-based services such as telecommunications companies.
 
 Dataset        : https://www.kaggle.com/blastchar/telco-customer-churn
