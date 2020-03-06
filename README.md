@@ -3,6 +3,8 @@ Customer churn, also known as customer attrition, is the loss of clients or cust
 
 Dataset        : https://www.kaggle.com/blastchar/telco-customer-churn
 Tools used     : Python
-Libraries used : pandas, numpy, matplotlib, sklearn, seaborn
-Concepts       : Imputation, SMOTE, chisquare test of independence, over-sampling, data partitioning, Logistic Regression
+Libraries used : pandas, numpy, matplotlib, sklearn, seaborn, 
+Concepts       : Imputation, SMOTE, chisquare test of independence, over-sampling, data partitioning
+Algorithms     : Logistic Regression, Decision Trees, Bagging, Random Forest, Gradient Boosting
+                
 
